@@ -28,9 +28,11 @@ Yes.
 That is RAW key pair of Dilithium2.
 Both key are base64 encoded, each (binary format) size should be following.
 
-Secret(Private) key : 1312 Byte
+Secret(Private) key : 2528 Byte
 
-Public key          : 2420 Byte
+Public key          : 1312 Byte
+(I wrote wrong sizes, as initial commit.
+Fixed.)
 
 It describe following page.
 
