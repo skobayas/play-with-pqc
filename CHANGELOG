@@ -11,3 +11,11 @@ Added feature "gen-wrap-privatekey"
 During build CSR feature, found mistake, fixed
 Private key size should be 2328,and Public key size should be 1312
 (Previous description was opposite.)
+
+1. May
+Could build Nginx with Open Quantum Safe OpenSSL
+You can check it with Chrome via x25519/Kyber768.
+
+https://oqs-nginx.skobayas.net/
+
+Other web browsers, such FireFox, Safari could not establish TLS session.
